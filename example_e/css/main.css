@@ -1,0 +1,29 @@
+div {
+  height: 12.5em;
+  position: absolute;
+  width: 12.5em;
+}
+
+#box1 {
+  background-color: rgb(224, 15, 122);
+  left: 0;
+  top: 0;
+}
+
+#box2 {
+  background-color: rgb(193, 221, 21);
+  right: 0;
+  top: 0;
+}
+
+#box3 {
+  background-color: rgb(38, 125, 181);
+  bottom: 0;
+  right: 0;
+}
+
+#box4 {
+  background-color: rgb(166, 98, 106);
+  bottom: 0;
+  left: 0;
+}

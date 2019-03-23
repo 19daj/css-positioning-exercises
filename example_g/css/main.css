@@ -1,0 +1,19 @@
+div {
+  position: absolute;
+}
+
+#box_1 {
+	background: #ee3e64;
+  bottom: 0;
+  left: 0;
+  right: 0;
+	top: 0;
+}
+
+#box_2 {
+	background: #44accf;
+  bottom: 2em;
+  left: 2em;
+  right: 2em;
+	top: 2em;
+}

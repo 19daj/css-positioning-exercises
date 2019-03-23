@@ -1,0 +1,17 @@
+div {
+  height: 12.5em;
+	position: static;
+	width: 12.5em;
+}
+
+#box_1 {
+  background-color: #ec1556;
+}
+
+#box_2 {
+  background-color: #0fb46f;
+}
+
+#box_3 {
+  background-color: #801dd5;
+}

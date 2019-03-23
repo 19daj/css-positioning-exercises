@@ -1,0 +1,17 @@
+div {
+  height: 12.5em;
+  position: relative;
+  width: 12.5em;
+}
+
+#box_1 {
+  background: #ee3e64;
+}
+
+#box_2 {
+  background: #0fb46f;
+}
+
+#box_3 {
+  background: #801dd5;
+}

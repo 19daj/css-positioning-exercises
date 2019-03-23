@@ -1,0 +1,14 @@
+div {
+  height: 12.5em;
+  width: 12.5em;
+}
+
+#box_1 {
+  background: rgb(168, 22, 136);
+}
+
+#box_2 {
+  background: rgb(19, 81, 191);
+  left: 6.25em;
+  position: absolute;
+}
